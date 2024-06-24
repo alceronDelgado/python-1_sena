@@ -1,4 +1,9 @@
-# Crear una función que permita 
+# Apropiación #1 Funciones
+
+# * 1- Realiza una función que tome una lista de números enteros y devuelva dos listas ordenadas. La primera con los números pares y la segunda con los números impares.
+
+# * salida en pantalla: Números pares: [2, 4, 6, 8] Números impares: [1, 3, 5, 9]
+
 def pedir_valor():
     lista = []
     valor = int(input("Digite el valor que deseas agregar: "))
