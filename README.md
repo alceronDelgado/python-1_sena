@@ -21,7 +21,7 @@
 
 + [**Jugando Con Python**](https://colab.research.google.com/github/edelgado-1975/PythonSena/blob/main/6_Jugando_con_Python%20ok.ipynb#scrollTo=TlvCE_pIHMtj)
 
-+ [**Modulos y Paquetes**](https://colab.research.google.com/github/edelgado-1975/PythonSena/blob/main/7_M%C3%B3dulos_y_Paquetes%20OK.ipynb#scrollTo=xfdGubDVKnhK)
++ [**Modulos y Paquetes**](https://colab.research.google.com/github/edelgado-1975/PythonSena/blob/main/7_m_dulos_y_paquetes_ok.ipynb)
 
 + [**PyPI & PIP**](https://colab.research.google.com/github/edelgado-1975/PythonSena/blob/main/8_PyPI_y_PIP%20ok.ipynb#scrollTo=IIvs_jPvSjV4)
 
