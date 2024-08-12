@@ -1,6 +1,0 @@
-setup.py
-adivina_adivinador.egg-info/PKG-INFO
-adivina_adivinador.egg-info/SOURCES.txt
-adivina_adivinador.egg-info/dependency_links.txt
-adivina_adivinador.egg-info/top_level.txt
-package/__init__.py
