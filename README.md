@@ -26,3 +26,9 @@
 + [**PyPI & PIP**](https://colab.research.google.com/github/edelgado-1975/PythonSena/blob/main/8_PyPI_y_PIP%20ok.ipynb#scrollTo=IIvs_jPvSjV4)
 
 + [**Distribudibles y ejecutables**](https://colab.research.google.com/github/edelgado-1975/PythonSena/blob/main/9_distribuibles_y_ejecutables%20ok.ipynb#scrollTo=GXUzoocIYOI6)
+
+### Más cuadernos
+
+`Acá se encuentran más cuadernos para poder utilizar, hasta la clase #21`
+
++ [**Más cuadernos**](https://colab.research.google.com/github/edelgado-1975/PythonSena)
